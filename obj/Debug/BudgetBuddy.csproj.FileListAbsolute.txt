@@ -1,0 +1,51 @@
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.AddTransactionForm.resources
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.Dashboard.resources
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.EditTransactionForm.resources
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.Login.resources
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.ViewTransactionsForm.resources
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\BudgetBuddy.db
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\BudgetBuddy.exe.config
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\BudgetBuddy.exe
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\BudgetBuddy.pdb
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBu.9DFDE833.Up2Date
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.exe
+C:\Users\ASUS\source\repos\BudgetBuddy\BudgetBuddy\obj\Debug\BudgetBuddy.pdb
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\BudgetBuddy.db
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\BudgetBuddy.exe.config
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\BudgetBuddy.exe
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\BudgetBuddy.pdb
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.exe.config
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.AddTransactionForm.resources
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.Dashboard.resources
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.EditTransactionForm.resources
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.Login.resources
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.Properties.Resources.resources
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.ViewTransactionsForm.resources
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBu.9DFDE833.Up2Date
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.exe
+C:\Users\ASUS\Downloads\BudgetBuddy - Group C\BudgetBuddy\obj\Debug\BudgetBuddy.pdb
